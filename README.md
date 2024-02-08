@@ -1,4 +1,4 @@
-#Overview
+##Overview
 This project is an implementation of a block crushing game in C++ using the ge211 framework. The game features traditional gameplay with graphical representation, allowing players to experience the timeless challenge of arranging falling blocks, or "Bricks", in a way that fills horizontal lines on the board without leaving gaps.
 
 #Features
@@ -8,7 +8,7 @@ Score Tracking: The game tracks and displays the player's score based on the num
 Dynamic Difficulty: The game's difficulty increases as the player progresses, with Bricks falling faster over time.
 Randomized Bricks: Each new Brick is randomly generated, offering a unique gameplay experience each time.
 
-#How to Play
+##How to Play
 
 Movement: Use arrow keys to move the Brick left or right.
 Rotation: Press 'R' to rotate the Brick.
